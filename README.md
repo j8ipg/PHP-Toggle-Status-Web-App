@@ -6,6 +6,7 @@ This project is a simple web application built with PHP, MySQL, HTML, CSS, and J
 - Add users with name and age
 - Display all users in a table
 - Toggle the status of each user (ON/OFF) using AJAX
+![wep pic](https://github.com/user-attachments/assets/7f93cb1a-dcf5-4efb-a69a-a43c1f438bf6)
 
 ---
 
@@ -38,6 +39,8 @@ CREATE TABLE list (
   status TINYINT(1) DEFAULT 0
 ); 
 ```
+![xam pic](https://github.com/user-attachments/assets/54787e05-0c37-4668-b5b7-ac2bf7893ff2)
+
 ---
 ##  🚀 How to Run
 Copy the task2 folder to your XAMPP htdocs directory:
